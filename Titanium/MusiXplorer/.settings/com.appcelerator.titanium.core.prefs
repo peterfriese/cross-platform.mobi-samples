@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+provisioning_profiles/development/28EDFE7D-305C-4340-85B6-2353A231C414/appid=*
+provisioning_profiles/development/28EDFE7D-305C-4340-85B6-2353A231C414/filepath=/Users/peterfriese/Library/MobileDevice/Provisioning Profiles/28EDFE7D-305C-4340-85B6-2353A231C414.mobileprovision
+provisioning_profiles/development/28EDFE7D-305C-4340-85B6-2353A231C414/name=Wildcard Profile
+provisioning_profiles/development/28EDFE7D-305C-4340-85B6-2353A231C414/uuid=28EDFE7D-305C-4340-85B6-2353A231C414
+provisioning_profiles/development/4CFD84E5-8F71-41AF-8EA0-7AEC00BCE3AA/appid=com.zuehlke.iPSDemonstrator
+provisioning_profiles/development/4CFD84E5-8F71-41AF-8EA0-7AEC00BCE3AA/filepath=/Users/peterfriese/Library/MobileDevice/Provisioning Profiles/4CFD84E5-8F71-41AF-8EA0-7AEC00BCE3AA.mobileprovision
+provisioning_profiles/development/4CFD84E5-8F71-41AF-8EA0-7AEC00BCE3AA/name=iPS Demonstrator Development Provisioning Profile
+provisioning_profiles/development/4CFD84E5-8F71-41AF-8EA0-7AEC00BCE3AA/uuid=4CFD84E5-8F71-41AF-8EA0-7AEC00BCE3AA
+provisioning_profiles/development/588E15C9-2FFF-4323-83C3-18931D865D2D/appid=*
+provisioning_profiles/development/588E15C9-2FFF-4323-83C3-18931D865D2D/filepath=/Users/peterfriese/Library/MobileDevice/Provisioning Profiles/588E15C9-2FFF-4323-83C3-18931D865D2D.mobileprovision
+provisioning_profiles/development/588E15C9-2FFF-4323-83C3-18931D865D2D/name=iOS Team Provisioning Profile\: *
+provisioning_profiles/development/588E15C9-2FFF-4323-83C3-18931D865D2D/uuid=588E15C9-2FFF-4323-83C3-18931D865D2D
+provisioning_profiles/development/A7D205B4-09B1-42C7-886D-89F423115DE0/appid=de.peterfriese.ECE-2011
+provisioning_profiles/development/A7D205B4-09B1-42C7-886D-89F423115DE0/filepath=/Users/peterfriese/Library/MobileDevice/Provisioning Profiles/A7D205B4-09B1-42C7-886D-89F423115DE0.mobileprovision
+provisioning_profiles/development/A7D205B4-09B1-42C7-886D-89F423115DE0/name=EclipseCon Europe 2011 Ad Hoc Provisioning Profile
+provisioning_profiles/development/A7D205B4-09B1-42C7-886D-89F423115DE0/uuid=A7D205B4-09B1-42C7-886D-89F423115DE0
